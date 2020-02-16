@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi Humans !
+
+Talk Data to Me.
+
+Because in Data we Trust.
